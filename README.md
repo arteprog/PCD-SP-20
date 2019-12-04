@@ -9,5 +9,10 @@
 - Workshops e Code Jam - sábado, 18 de janeiro de 2019 - Local: EBAC
 - Palestras e apresentações - domingo, 19 de janeiro de 2019 - Local: ThoughtWorks
 
-## Breve aqui mais informações
+## Breve aqui mais informações 
+
+`Chamada para apresentações, Code Jam, inscrições e etc.
+
+#### Processing Community Day @ Worldwide
+<iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
 
