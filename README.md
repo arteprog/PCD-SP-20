@@ -4,7 +4,7 @@
 >
 > Processing tem com objetivos tornar o aprendizado de como programar e fazer trabalhos criativos com código acessíveis a diversas comunidades, especialmente a quem de outra maneira poderia não ter acesso a estas ferramentas e recursos. 
 >
-> O Processing Community Day (PCD) é uma iniciativa para melhorar a diversidade na comunidade de arte e programação, busca ampliar o alcance e impacto desta comunidade organizando encontros com centenas de comunidades em múltiplos lugares ao redor do mundo. 
+> O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/processing-community-day-2020) é uma iniciativa para melhorar a diversidade na comunidade de arte e programação, busca ampliar o alcance e impacto desta comunidade organizando encontros com centenas de comunidades em múltiplos lugares ao redor do mundo. 
 
 - Workshops e Code Jam - sábado, 18 de janeiro de 2019 - Local: EBAC
 - Palestras e apresentações - domingo, 19 de janeiro de 2019 - Local: ThoughtWorks
