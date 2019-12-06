@@ -1,17 +1,17 @@
 # Processing Community Day 2020 @ São Paulo
 
-> Processing é uma plataforma de software aberta e livre para ensino de programação no contexto das artes visuais, criado por Casey Reas e Ben Fry. É complementado por uma versão web, chamada p5.js, criada por Lauren McCarthy. Hoje, Processing e p5.js são usados por uma comunidade de artistas, programadores, educadores e estudantes no mundo todo.
->
-> Processing tem com objetivos tornar o aprendizado de como programar e fazer trabalhos criativos com código acessíveis a diversas comunidades, especialmente a quem de outra maneira poderia não ter acesso a estas ferramentas e recursos. 
->
-> O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/processing-community-day-2020) é uma iniciativa para melhorar a diversidade na comunidade de arte e programação, busca ampliar o alcance e impacto desta comunidade organizando encontros com centenas de comunidades em múltiplos lugares ao redor do mundo. 
+## #PCD20SP
+
+Processing é uma plataforma de software aberta e livre para ensino de programação no contexto das artes visuais, criado por Casey Reas e Ben Fry. É complementado por uma versão web, chamada p5.js, criada por Lauren McCarthy. Hoje, Processing e p5.js são usados por uma comunidade de artistas, programadores, educadores e estudantes no mundo todo.
+
+Processing tem com objetivos tornar o aprendizado de como programar e fazer trabalhos criativos com código acessíveis a diversas comunidades, especialmente a quem de outra maneira poderia não ter acesso a estas ferramentas e recursos. 
+
+O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/processing-community-day-2020) é uma iniciativa para melhorar a diversidade na comunidade de arte e programação, busca ampliar o alcance e impacto desta comunidade organizando encontros com centenas de comunidades em múltiplos lugares ao redor do mundo. 
+
+## Programação 
 
 - Workshops e Code Jam - sábado, 18 de janeiro de 2019 - Local: EBAC
 - Palestras e apresentações - domingo, 19 de janeiro de 2019 - Local: ThoughtWorks
-
-## Breve aqui mais informações 
-
-`Chamada para apresentações, Code Jam, inscrições e etc.`
 
 #### Processing Community Day @ Worldwide
 <iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
