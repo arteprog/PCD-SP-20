@@ -16,3 +16,6 @@
 #### Processing Community Day @ Worldwide
 <iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
 
+#### Eventos anteriores
+
+[Processing Community Day 2019 @ São Paulo](http://arteprog.space/PCD-SP-19/PT/)
