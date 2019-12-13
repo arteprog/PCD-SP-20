@@ -17,7 +17,7 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
   -  inscrições para participar da Code Jam serão abertas em 18 de dezembro de 2019
 #### Palestras e apresentações - domingo, 19 de janeiro de 2019 - Local: ThoughtWorks
 
-  - Em breve, chamada de propostas para  presentações.
+  - Em breve, chamada de propostas para apresentações/palestras.
   
   - Em janeiro, inscrições gerais para participantes.
 
