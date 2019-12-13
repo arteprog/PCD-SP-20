@@ -11,9 +11,16 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 ## Programação 
 
 - Workshops e Code Jam - sábado, 18 de janeiro de 2019 - Local: EBAC
+
+  -  Estão abertas as [incrições para workshops em 18 de janeiro](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
+
+  -  Em breve, inscrições para participar da Code Jam
+
 - Palestras e apresentações - domingo, 19 de janeiro de 2019 - Local: ThoughtWorks
 
-- Estão abertas as [incrições para workshops em 18 de janeiro](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
+  - Em breve, chamada de propostas para  presentações.
+  
+  - Em janeiro, incrições gerais para participantes.
 
 #### Processing Community Day @ Worldwide
 <iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
