@@ -19,7 +19,7 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 
   - Em breve, chamada de propostas para  presentações.
   
-  - Em janeiro, incrições gerais para participantes.
+  - Em janeiro, inscrições gerais para participantes.
 
 ## Processing Community Day @ Worldwide
 <iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
