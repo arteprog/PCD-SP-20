@@ -19,7 +19,7 @@ Em breve.
  
 ## Organizadores
 
-**Monica Rizzolli** é artista-programadora, estudou no Instituto de Artes da UNESP e na Kunsthochschule Kassel (Alemanha). Participou de projetos internacionais como MAK Center Artists and Architects (EUA), Creatives in Residence (China), Sweet Home (Espanha) e A.I.R. DRAWinternational (França). Recebeu o prêmio MAK Schindler, do MAK - Museum of Applied Arts Vienna.Com Tony de Marco é sócia da type foundry Just in Type e do estúdio de design Contrast - programação, tipografia e design. [contrast.parts](http://contrast.parts]
+**Monica Rizzolli** é artista-programadora, estudou no Instituto de Artes da UNESP e na Kunsthochschule Kassel (Alemanha). Participou de projetos internacionais como MAK Center Artists and Architects (EUA), Creatives in Residence (China), Sweet Home (Espanha) e A.I.R. DRAWinternational (França). Recebeu o prêmio MAK Schindler, do MAK - Museum of Applied Arts Vienna.Com Tony de Marco é sócia da type foundry Just in Type e do estúdio de design Contrast - programação, tipografia e design. [contrast.parts](http://contrast.parts)
 
 **Alexandre Villares** é arquiteto formado pela FAU-USP. Pesquisa ensino de programação em um contexto visual no mestrado do programa de pós-graduação ATC FEC/Unicamp. Membro da Processing Foundation, co-organizador da Noite de Processing e parte de artepro.space. Trabalha como professor e educador em São Paulo, produzindo com programação sketches diários em abav.lugaralgum.com/sketch-a-day.
 
