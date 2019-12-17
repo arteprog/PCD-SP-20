@@ -13,6 +13,14 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 
   [Inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
 
+#### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: TW
+
+   abertura a partir de 18 de dezembro de 2019
+
+#### Incrições para o Code Jam - domingo, 19 de janeiro de 2020 - Local: TW
+
+   abertura a partir de 18 de dezembro de 2019
+
 ## Programação
 
 ### Workshop "Introdução ao Processing" - sábado, 18 de janeiro de 2019 - Local: EBAC
