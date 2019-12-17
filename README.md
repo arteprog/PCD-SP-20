@@ -9,11 +9,9 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 
 ## Inscrições 
 
-#### Workshops introdutórios e Code Jam - sábado, 18 de janeiro de 2019 - Local: EBAC
+#### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
 
   [inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
-
-  -  inscrições para participar da Code Jam serão abertas em 18 de dezembro de 2019
 
 ## Programação
 
