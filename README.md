@@ -1,8 +1,5 @@
 # Processing Community Day 2020 @ São Paulo
-
 ![logo](https://github.com/arteprog/PCD-SP-20/blob/master/assets/Asset%201.png?raw=true)
-
-## #PCD20SP
 
 Processing é uma plataforma de software aberta e livre para ensino de programação no contexto das artes visuais, criado por Casey Reas e Ben Fry. É complementado por uma versão web, chamada p5.js, criada por Lauren McCarthy. Hoje, Processing e p5.js são usados por uma comunidade de artistas, programadores, educadores e estudantes no mundo todo.
 
@@ -22,10 +19,28 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
   - Em breve, chamada de propostas para apresentações/palestras.
   
   - Em janeiro, inscrições gerais para participantes.
+ 
+## Organização
+
+Monica Rizzolli
+
+Alexandre Villares
+
+Cristian Cesar Cunha
+
+João Antonio de F. P. e Ferreira
+
+Marco Macarena
+
+Tatyana Zabanova
+
+Mariana Leal
+
+## Apoio
+
+## Eventos anteriores
+
+[Processing Community Day 2019 @ São Paulo](http://arteprog.space/PCD-SP-19/PT/)
 
 ## Processing Community Day @ Worldwide
 <iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
-
-#### Eventos anteriores
-
-[Processing Community Day 2019 @ São Paulo](http://arteprog.space/PCD-SP-19/PT/)
