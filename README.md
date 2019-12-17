@@ -27,7 +27,7 @@ Workshop 2A: 18/01/2020 das 14h às 17h - ministrados por Paulo Costa.
 
 Workshop 1B: 18/01/2020 das 10h às 13h - ministrado por Marco Macarena.
 
-Workshop 2B:18/01/2020 das 14h às 17h - ministrado por João Antonio de F. P. e Ferreira, tutoria de Sergio Venancio.
+Workshop 2B: 18/01/2020 das 14h às 17h - ministrado por João Antonio de F. P. e Ferreira, tutoria de Sergio Venancio.
  
 ## Organizadores
 
