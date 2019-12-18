@@ -29,7 +29,7 @@ Os workshops do Processing Community Day 2020 @ São Paulo consistem em quatro s
 
 **Horários:**
 
-Workshop 1A: 18/01/2020 das 10h às 13h - ministrado por Andre Matos e tutoria de Cristian Cunha.
+Workshop 1A: 18/01/2020 das 10h às 13h - ministrado por André Mattos e tutoria de Cristian Cunha.
 
 Workshop 2A: 18/01/2020 das 14h às 17h - ministrados por Paulo Costa.
 
