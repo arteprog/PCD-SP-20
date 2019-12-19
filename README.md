@@ -15,7 +15,7 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 
 #### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
 
-   abertura a partir de 18 de dezembro de 2019
+   [Inscrições para Creative Code Jam](https://creativecodejampcd20sp.eventbrite.com)
 
 #### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
 
