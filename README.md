@@ -11,7 +11,7 @@ Para participar e/ou acompanhar o processo de organização do PCD20SP junte-se 
 
 ## Programação
 
-### sábado, 18 de janeiro de 2019 - Local: EBAC
+### Sábado, 18 de janeiro de 2019 - Local: EBAC
 
 #### Workshops de introdução ao Processing
 
@@ -34,6 +34,12 @@ Durante a atividade, tutores estão disponíveis para auxiliar no desenvolviment
 
 Tutores: Monica Rizzolli, Jhun Kusano
 
+### Domingo, 19 de janeiro de 2019 - Local: ToughtWorks
+
+#### Palestras e apresentações
+
+A grade será divulgada em janeiro.
+
 ## Inscrições 
 
 #### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
@@ -47,6 +53,10 @@ Tutores: Monica Rizzolli, Jhun Kusano
 #### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
 
    abertura em breve
+   
+<!-- #### Incrições para assistir as apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
+   
+-->
 
 ### Endereços
 
