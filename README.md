@@ -63,6 +63,8 @@ Workshop 2B: 18/01/2020 das 14h às 17h - ministrado por João Antonio de F. P. 
 
 **Mariana Leal** é uma artista-programadora independente envolvida com caligrafia e sua mistura de escrita como imagem, especialmente técnica. Ela usa a programação como um meio para fazer caligrafia híbrida, meio gesto analógico, meio algoritmos computacionais. Ela também oferece workshops ensinando programação criativa em um contexto visual-caligráfico. Seu trabalho pode ser encontrado em https://www.instagram.com/lightesthand/.
 
+**Sergio Venancio** é professor, artista, programador, e toca teclados numa banda de anos 80. É doutorando e mestre em Artes Visuais pela ECA USP e bacharel em Ciência da Computação pela Unicamp. Durante o mestrado criou o software Extentio, que simula um processo de desenho de observação usando Processing, Visão Computacional e Machine Learning. Agora pro doutorado está pesquisando o tal do Deep Learning, GAN, NLP... É professor de UI e UX no curso de Especialização em Design Gráfico da Unicamp, no MBA em Marketing Digital da Unip, e conteudista de EAD pro Senac. Também participa do grupo Realidades (ECA USP), que produz trabalhos de arte e tecnologia que foram expostos em festivais e encontros internacionais como o ISEA 2017, ARS Electronica 2017, #18.Art e ARTECH 2019. [Instagram:](@sergiovenancio.art)
+
 ## Apoio
 
 **[ThoughtWorks](https://www.thoughtworks.com/locations/brasil)** é uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defende uma mudança social positiva.
