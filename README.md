@@ -13,9 +13,11 @@ Junte-se ao nosso grupo público no Telegram clicando [AQUI](T.me/pcd20sp).
 
 ## Programação
 
-### Workshop "Introdução ao Processing" - sábado, 18 de janeiro de 2019 - Local: EBAC
+### sábado, 18 de janeiro de 2019 - Local: EBAC
 
-Os workshops do Processing Community Day 2020 @ São Paulo consistem em quatro sessões de 03 horas para iniciantes. Serão abordados conceitos básicos da lógica de programação, seguido de uma introdução ao universo da programação criativa com Processing.
+#### Workshops de introdução ao Processing
+
+Estes workshops (oficinas) consistem em quatro sessões de 03 horas para iniciantes. Serão abordados conceitos básicos da lógica de programação, seguido de uma introdução ao universo da programação criativa com Processing.
 
 **Horários:**
 
@@ -26,6 +28,16 @@ Workshop 2A: 18/01/2020 das 14h às 17h - ministrados por Paulo Costa.
 Workshop 1B: 18/01/2020 das 10h às 13h - ministrado por Marco Macarena.
 
 Workshop 2B: 18/01/2020 das 14h às 17h - ministrado por João Antonio de F. P. e Ferreira, tutoria de Sergio Venancio.
+
+#### Creative Code Jam
+
+A *Creative Code Jam* é uma reunião de pessoas que estão interessados em produzir algo criativo com o código em um período de 6 horas, utilizando ferramentas de programação da comunidade Processing. Será possível trabalhar com imagens, gráficos, sons, animações, vídeos, composições tipográficas, aplicativos, games, realidade virtual e aumentada, instrumentos musicais, sensores, performances, instalações interativas, redes, internet das coisas, e muito mais. 
+
+Pessoas de todas as áreas (artistas, desenvolvedores de software, hackers, designers, veterinários, músicos, engenheiros de software, cineastas, astrônomos, bailarinos, pintores, etc.) são bem vindos, e não é necessário saber programar.
+
+Durante a atividade, tutores estão disponíveis para auxiliar no desenvolvimento do projeto.
+
+Tutores: Monica Rizzolli, Jhun Kusano
 
 ## Inscrições 
 
