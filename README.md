@@ -7,8 +7,9 @@ Processing tem com objetivos tornar o aprendizado de como programar e fazer trab
 
 O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/processing-community-day-2020) é uma iniciativa para melhorar a diversidade na comunidade de arte e programação, busca ampliar o alcance e impacto desta comunidade organizando encontros com centenas de comunidades em múltiplos lugares ao redor do mundo. 
 
-Você que participar e/ou acompanhar o processo de organização do PCD20SP?
-Junte-se ao nosso grupo público na Telegram clicando [AQUI](T.me/pcd20sp)
+Você quer participar e/ou acompanhar o processo de organização do PCD20SP?
+
+Junte-se ao nosso grupo público no Telegram clicando [AQUI](T.me/pcd20sp).
 
 ## Inscrições 
 
