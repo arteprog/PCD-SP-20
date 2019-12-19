@@ -15,6 +15,8 @@ Junte-se ao nosso grupo público no Telegram clicando [AQUI](T.me/pcd20sp).
 
 #### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
 
+Estes workshops (oficinas) consistem em quatro sessões de 03 horas para iniciantes. Serão abordados conceitos básicos da lógica de programação, seguido de uma introdução ao universo da programação criativa com Processing.
+
   [Inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
 
 #### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
@@ -23,7 +25,7 @@ Junte-se ao nosso grupo público no Telegram clicando [AQUI](T.me/pcd20sp).
 
 #### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
 
-   abertura a partir de 18 de dezembro de 2019
+   abertura em breve
 
 ## Programação
 
