@@ -9,6 +9,20 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 
 Para participar e/ou acompanhar o processo de organização do PCD20SP junte-se ao nosso [grupo público no Telegram](T.me/pcd20sp)!
 
+## Inscrições 
+
+#### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
+
+  [Inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
+
+#### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
+
+   [Inscrições para Creative Code Jam](https://creativecodejampcd20sp.eventbrite.com)
+
+#### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
+
+   [Inscrições para Palestrar](https://palestraspcd20sp.eventbrite.com)
+
 ## Programação
 
 ### Sábado, 18 de janeiro de 2019 - Local: EBAC
@@ -39,24 +53,6 @@ Tutores: Monica Rizzolli, Jhun Kusano
 #### Palestras e apresentações
 
 A grade será divulgada em janeiro.
-
-## Inscrições 
-
-#### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
-
-  [Inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
-
-#### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
-
-   [Inscrições para Creative Code Jam](https://creativecodejampcd20sp.eventbrite.com)
-
-#### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
-
-   abertura em breve
-   
-<!-- #### Incrições para assistir as apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
-   
--->
 
 ### Endereços
 
