@@ -77,7 +77,7 @@ A grade será divulgada em janeiro.
 
 ## Grupos e Recursos em Português
 
-https://github.com/arteprog/grupos-e-recursos-em-portugues
+[https://github.com/arteprog/grupos-e-recursos-em-portugues](https://github.com/arteprog/grupos-e-recursos-em-portugues)
 
 ## Equipe
 
