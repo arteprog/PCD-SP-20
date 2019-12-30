@@ -75,6 +75,10 @@ A grade será divulgada em janeiro.
 ## Processing Community Day @ Worldwide
 <iframe src="https://www.google.com/maps/d/embed?mid=1NAJIxDO4Oov9sqrINPlkPL_4y3DZ7fb-" width="640" height="480"></iframe>
 
+## Grupos e Recursos em Português
+
+https://github.com/arteprog/grupos-e-recursos-em-portugues
+
 ## Equipe
 
 ### Organizadores
