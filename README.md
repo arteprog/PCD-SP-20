@@ -40,6 +40,8 @@ Estes workshops (oficinas) consistem em quatro sessões de 03 horas para inician
 
 #### Creative Code Jam
 
+**Horário da atividade: 18/01/2020 - 09h a 17h** 
+
 A *Creative Code Jam* é uma reunião de pessoas que estão interessados em produzir algo criativo com o código em um período de 6 horas, utilizando ferramentas de programação da comunidade Processing. Será possível trabalhar com imagens, gráficos, sons, animações, vídeos, composições tipográficas, aplicativos, games, realidade virtual e aumentada, instrumentos musicais, sensores, performances, instalações interativas, redes, internet das coisas, e muito mais. 
 
 Pessoas de todas as áreas (artistas, desenvolvedores de software, hackers, designers, veterinários, músicos, engenheiros de software, cineastas, astrônomos, bailarinos, pintores, etc.) são bem vindos, e não é necessário saber programar.
