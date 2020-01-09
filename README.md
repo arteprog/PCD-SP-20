@@ -9,24 +9,6 @@ O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/pro
 
 Para participar e/ou acompanhar o processo de organização do PCD20SP junte-se ao nosso [grupo público no Telegram](http://T.me/pcd20sp)!
 
-## Inscrições 
-
-#### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
-
-[Inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
-
-#### Inscrições para assistir as palestras - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
-
-Em breve aqui!
-
-#### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
-
-encerradas <!--   [Inscrições para Creative Code Jam](https://creativecodejampcd20sp.eventbrite.com) -->
-
-#### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
-
-encerradas <!---   [Inscrições para Palestrar](https://palestraspcd20sp.eventbrite.com) -->
-
 ## Programação
 
 ### Sábado, 18 de janeiro de 2019 - Local: EBAC
@@ -58,7 +40,7 @@ Tutores: Monica Rizzolli, Jhun Kusano
 
 #### Palestras e apresentações
 
-A grade será divulgada em janeiro.
+A grade será divulgada em breve.
 
 ### Endereços
 
@@ -66,6 +48,24 @@ A grade será divulgada em janeiro.
 
 **ThoughtWorks** - Av. Paulista, 2300 - Conjunto 41 - Bela Vista, São Paulo - SP, 01310-300
  
+## Inscrições 
+
+#### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
+
+[Inscrições para workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
+
+#### Inscrições para assistir as palestras - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
+
+Em breve aqui!
+
+#### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
+
+encerradas <!--   [Inscrições para Creative Code Jam](https://creativecodejampcd20sp.eventbrite.com) -->
+
+#### Chamada para palestras/apresentações - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
+
+encerradas <!---   [Inscrições para Palestrar](https://palestraspcd20sp.eventbrite.com) -->
+
 ## Apoio
 
 **[ThoughtWorks](https://www.thoughtworks.com/locations/brasil)** é uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defende uma mudança social positiva.
