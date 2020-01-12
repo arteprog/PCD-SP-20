@@ -107,6 +107,8 @@ encerradas <!---   [Inscrições para Palestrar](https://palestraspcd20sp.eventb
 
 ### Geral
 
+**André Burnier**, formado mestre em design gráfico na AKV | St.Joost, na Holanda, trabalha com design dês de 2009. Nos últimos anos André vem pesquisando a intersecção de programação e design gráfico. Atualmente trabalha como freelancer e utiliza programação para desenvolver ferramentas que geram design (logos, pôsteres, patterns, tratamento de imagens etc). Seus experimentos visuais podem ser encontrados em www.instagram.com/burnier e seu portfolio www.andreburnier.com
+
 **Rafael Tsuha** é entusiasta do software livre e graduando de Ciência da Computação no IME-USP com seus principais interesses em glitch art, arte algoritmica e música experimental. Atualmente atua como pesquisador no Grupo de Experiências Críticas em Infraestruturas Digitais (GECID) sediado no Inova USP. https://gecid-aia.github.io/
 
 **Paulo Costa** é doutorando do em Meios e Processos Audiovisuais (ECA/ USP), além de atuar no campo da artemídia e educação superior em cursos de Design, Jogos e Novas Mídias. Participou de diversas mostras na área de arte e tecnologia como FILE (Festival de Linguagem Eletrônica) , Consciência Cibernética (Itau Cultural) e XReality (USP/EBAC). ProcessingSP (adm) : https://www.facebook.com/processingsp Folio:www.navax.net.br
