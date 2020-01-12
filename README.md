@@ -116,3 +116,5 @@ encerradas <!---   [Inscrições para Palestrar](https://palestraspcd20sp.eventb
 **Daniela Favero** graduanda em Ciência da Computação no IME-USP e instrutora na escola de tecnologia Caelum. Tem interesse em muitas ferramentas que auxiliam no ensino de programação, principalmente em Processing e outros meios que possam misturar arte e tecnologia. Atualmente faz parte do grupo de extensão TECS - Grupo de Computação Social da USP, fazendo parte de projetos como dar aulas de lógica de programação na Fundação Casa.
 
 **Anderson Ribeiro** Valesan é graduado em Sistemas de Informação (ICMC-USP). Trabalha atualmente como desenvolvedor Web e com interesses diversos que nem sempre abrangem apenas a computação, entre eles a curiosidade em arte computacional.
+
+**Priscila Gutierres** é nerd, amante de animais, mestranda em matemática aplicada, pesquisadora do radio telescópio BINGO e maker nas horas vagas.
