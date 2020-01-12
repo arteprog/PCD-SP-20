@@ -34,7 +34,7 @@ Pessoas de todas as áreas (artistas, desenvolvedores de software, hackers, desi
 
 Durante a atividade, tutores estão disponíveis para auxiliar no desenvolvimento do projeto.
 
-Tutores: Monica Rizzolli, Jhun Kusano
+Tutores: Monica Rizzolli, Jhun Kusano, Alexandre Villares e André Burnier
 
 ### Domingo, 19 de janeiro de 2019 - Local: ToughtWorks
 
