@@ -40,7 +40,12 @@ Tutores: Monica Rizzolli, Jhun Kusano, Alexandre Villares e André Burnier
 
 #### Palestras e apresentações
 
-A grade será divulgada em breve.
+- André Burnier -	Programando design gráfico
+- Bruna Mayer Costa, Artur Thomas Pereira Bueno, Alexandre D'Elboux Filho	- Líbera: por dentro da caixa preta
+- Gil Fuser -	Processing das Coisas: Dados do mundo físico via OSC
+- Graziele Lautenschlaeger	- Código-constructo: A sonificação do desvio em Self-portrait of an absence
+- Pedro Guglielmo	pedro@rckt.com.br	P5.JS e sockets
+- Sergio Venancio	-	Criatividade em tempos de máquinas "criativas"
 
 ### Endereços
 
