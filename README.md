@@ -19,10 +19,10 @@ Estes workshops (oficinas) consistem em quatro sessões de 03 horas para inician
 
 **Horários:**
 
-- Workshop 1A: 18/01/2020 das 10h às 13h - ministrado por André Mattos, tutoria de Cristian Cunha.
-- Workshop 2A: 18/01/2020 das 14h às 17h - ministrado por Paulo Costa.
+- Workshop 1A: 18/01/2020 das 10h às 13h - ministrado por André Mattos, tutoria de Cristian Cunha e Uriá Fassina.
+- Workshop 2A: 18/01/2020 das 14h às 17h - ministrado por Paulo Costa, tutoria de Priscila Gutierres e Anderson Valesan.
 - Workshop 1B: 18/01/2020 das 10h às 13h - ministrado por Marco Macarena, tutoria de Daniela Favero e Rafael Tsuha.
-- Workshop 2B: 18/01/2020 das 14h às 17h - ministrado por João Antonio de F. P. e Ferreira, tutoria de Sergio Venancio e Rafael Tsuha.
+- Workshop 2B: 18/01/2020 das 14h às 17h - ministrado por João Antonio de F. P. e Ferreira, tutoria de Sergio Venancio e Uriá Fassina.
 
 #### Creative Code Jam
 
@@ -114,3 +114,5 @@ encerradas <!---   [Inscrições para Palestrar](https://palestraspcd20sp.eventb
 **André Mattos** tem 15 anos de experiência com interatividade, creative coding, design e liderança de equipes nas indústrias de publicidade, internet e eventos. Conquistou diversos prêmios em festivais nacionais e internacionais como Cannes Lions, The FWA, Webby Awards, El Ojo, El Sol, Wave Festival, FIAP e Clube de Criação de São Paulo. Durante sua carreira trabalhou na Wunderman, AlmapBBDO, Delicatessen Filmes e Vetor Zero. Atualmente é sócio na Midiadub, produtora de arte e tecnologia baseada em São Paulo. Trabalhos selecionados em https://ma77os.com
 
 **Daniela Favero** graduanda em Ciência da Computação no IME-USP e instrutora na escola de tecnologia Caelum. Tem interesse em muitas ferramentas que auxiliam no ensino de programação, principalmente em Processing e outros meios que possam misturar arte e tecnologia. Atualmente faz parte do grupo de extensão TECS - Grupo de Computação Social da USP, fazendo parte de projetos como dar aulas de lógica de programação na Fundação Casa.
+
+**Anderson Ribeiro** Valesan é graduado em Sistemas de Informação (ICMC-USP). Trabalha atualmente como desenvolvedor Web e com interesses diversos que nem sempre abrangem apenas a computação, entre eles a curiosidade em arte computacional.
