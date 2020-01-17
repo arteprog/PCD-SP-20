@@ -38,8 +38,10 @@ Tutores: Monica Rizzolli, Jhun Kusano, Alexandre Villares e André Burnier
 
 ### Domingo, 19 de janeiro de 2019 - Local: ToughtWorks
 
-#### Palestras e apresentações
+#### Palestras e apresentações - 9h
 
+09:00 Acolhimento 
+10:00 Falas de abertura seguindas das apresentações.
 - André Burnier -	Programando design gráfico
 - Bruna Mayer Costa, Artur Thomas Pereira Bueno, Alexandre D'Elboux Filho	- Líbera: por dentro da caixa preta
 - Gil Fuser -	Processing das Coisas: Dados do mundo físico via OSC
