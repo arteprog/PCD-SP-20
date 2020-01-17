@@ -57,11 +57,11 @@ Tutores: Monica Rizzolli, Jhun Kusano, Alexandre Villares e André Burnier
 
 #### Workshops introdutórios - sábado, 18 de janeiro de 2019 - Local: EBAC
 
-[para participar dos workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003)
+encerradas <!-- [para participar dos workshops introdutórios](https://www.eventbrite.com/e/workshops-pcd20sp-tickets-85237950003) -->
 
 #### Inscrições para assistir as palestras - domingo, 19 de janeiro de 2020 - Local: ThoughtWorks
 
-[para assitir as palestras e apresentações](https://www.eventbrite.com.br/e/palestras-e-apresentacoes-pcd20sp-tickets-88847973681)
+encerradas <!-- [para assitir as palestras e apresentações](https://www.eventbrite.com.br/e/palestras-e-apresentacoes-pcd20sp-tickets-88847973681) -->
 
 #### Inscrições para Creative Code Jam - sábado, 18 de janeiro de 2020 - Local: EBAC
 
