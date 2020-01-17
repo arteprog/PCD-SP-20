@@ -49,6 +49,8 @@ Tutores: Monica Rizzolli, Jhun Kusano, Alexandre Villares e André Burnier
 - Pedro Guglielmo	-	P5.JS e sockets
 - Sergio Venancio	-	Criatividade em tempos de máquinas "criativas"
 
+[código de conduta do evento](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)
+
 ### Endereços
 
 **EBAC** - R. Mourato Coelho, 1404 - Pinheiros, São Paulo - SP, 05417-002
