@@ -34,20 +34,23 @@ Pessoas de todas as áreas (artistas, desenvolvedores de software, hackers, desi
 
 Durante a atividade, tutores estão disponíveis para auxiliar no desenvolvimento do projeto.
 
-Tutores: Monica Rizzolli, Jhun Kusano, Alexandre Villares e André Burnier
+Tutores: Monica Rizzolli, Alexandre Villares e André Burnier
 
 ### Domingo, 19 de janeiro de 2019 - Local: ToughtWorks
 
 #### Palestras e apresentações - 9h
 
-09:00 Acolhimento 
-10:00 Falas de abertura seguindas das apresentações.
-- André Burnier -	Programando design gráfico
-- Bruna Mayer Costa, Artur Thomas Pereira Bueno, Alexandre D'Elboux Filho	- Líbera: por dentro da caixa preta
-- Gil Fuser -	Processing das Coisas: Dados do mundo físico via OSC
-- Graziele Lautenschlaeger	- Código-constructo: A sonificação do desvio em Self-portrait of an absence
-- Pedro Guglielmo	-	P5.JS e sockets
-- Sergio Venancio	-	Criatividade em tempos de máquinas "criativas"
+- 09:00 Acolhimento 
+- 10:00 Falas de abertura seguindas das apresentações.
+- 10:30 André Burnier -	Programando design gráfico
+- 11:15 Bruna Mayer Costa, Artur Thomas Pereira Bueno, Alexandre D'Elboux Filho	- Líbera: por dentro da caixa preta
+- 12:00 Almoço
+- 13:30 Gil Fuser -	Processing das Coisas: Dados do mundo físico via OSC
+- 14:15 Graziele Lautenschlaeger	- Código-constructo: A sonificação do desvio em Self-portrait of an absence
+- 15:00 Café
+- 15:30 Pedro Guglielmo	-	P5.JS e sockets
+- 16:15 Sergio Venancio	-	Criatividade em tempos de máquinas "criativas"
+- 17:00 Falas relâmpago (lightning talks)
 
 [código de conduta do evento](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)
 
