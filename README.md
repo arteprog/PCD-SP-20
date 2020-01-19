@@ -55,8 +55,8 @@ Tutores: Monica Rizzolli, Alexandre Villares e André Burnier
   - 2
   - 3
   - 4 ...
-~ 18:00 Encerramento
-~ 18:30 Confraternização 
+- 18:00~ Encerramento
+- 18:30~ Confraternização (nas proximidades da TW)
 
 [código de conduta do evento](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)
 
