@@ -47,10 +47,16 @@ Tutores: Monica Rizzolli, Alexandre Villares e André Burnier
 - 12:00 Almoço
 - 13:30 Gil Fuser -	Processing das Coisas: Dados do mundo físico via OSC
 - 14:15 Graziele Lautenschlaeger	- Código-constructo: A sonificação do desvio em Self-portrait of an absence
-- 15:00 Café
-- 15:30 Pedro Guglielmo	-	P5.JS e sockets
-- 16:15 Sergio Venancio	-	Criatividade em tempos de máquinas "criativas"
+- 15:00 Sergio Venancio	-	Criatividade em tempos de máquinas "criativas"
+- 15:45 Café
+- 16:15 Pedro Guglielmo	-	P5.JS e sockets
 - 17:00 Falas relâmpago (lightning talks)
+  - 1
+  - 2
+  - 3
+  - 4 ...
+~ 18:00 Encerramento
+~ 18:30 Confraternização 
 
 [código de conduta do evento](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)
 
