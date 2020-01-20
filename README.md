@@ -7,7 +7,7 @@ Processing tem com objetivos tornar o aprendizado de como programar e fazer trab
 
 O [Processing Community Day (PCD)](https://processingfoundation.org/advocacy/processing-community-day-2020) é uma iniciativa para melhorar a diversidade na comunidade de arte e programação, busca ampliar o alcance e impacto desta comunidade organizando encontros com centenas de comunidades em múltiplos lugares ao redor do mundo. 
 
-Para participar e/ou acompanhar o processo de organização do PCD20SP junte-se ao nosso [grupo público no Telegram](http://T.me/pcd20sp)!
+Para participar e/ou acompanhar o processo de organização do Processing Community Day São Paulo junte-se ao nosso [grupo público no Telegram](http://T.me/pcd20sp)!
 
 ## Programação
 
@@ -34,7 +34,8 @@ Pessoas de todas as áreas (artistas, desenvolvedores de software, hackers, desi
 
 Durante a atividade, tutores estão disponíveis para auxiliar no desenvolvimento do projeto.
 
-Tutores: Monica Rizzolli, Alexandre Villares e André Burnier
+Tutores: Monica Rizzolli, Alexandre Villares e André Burnier.
+Também apoiaram a Jam: João Antônio Ferreira, Sergio Venancio e Marco Macarena.
 
 ### Domingo, 19 de janeiro de 2019 - Local: ToughtWorks
 
