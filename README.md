@@ -1,6 +1,12 @@
 # Processing Community Day 2020 @ São Paulo
 ![logo](https://github.com/arteprog/PCD-SP-20/blob/master/assets/Asset%201.png?raw=true)
 
+---
+
+[Relato do PCD São Paulo realizado nos dias 18 e 19 de janeiro de 2020](/relatos/pt.md)
+
+---
+
 Processing é uma plataforma de software aberta e livre para ensino de programação no contexto das artes visuais, criado por Casey Reas e Ben Fry. É complementado por uma versão web, chamada p5.js, criada por Lauren McCarthy. Hoje, Processing e p5.js são usados por uma comunidade de artistas, programadores, educadores e estudantes no mundo todo.
 
 Processing tem com objetivos tornar o aprendizado de como programar e fazer trabalhos criativos com código acessíveis a diversas comunidades, especialmente a quem de outra maneira poderia não ter acesso a estas ferramentas e recursos. 
