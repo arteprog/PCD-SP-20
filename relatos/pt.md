@@ -88,6 +88,8 @@ Mais fotos do segundo dia no [Instagram](https://www.instagram.com/p/B7i7Z18nwUb
 
 O #PCD20SP foi organizado por Monica Rizzolli, Alexandre Villares, Cristian Cesar Cunha, João Antonio de F. P. e Ferreira, Marco Macarena, Tatyana Zabanova, Mariana Leal, Sergio Venancio e André Burnier. E contou com a ajuda de diversos colaboradores: Rafael Tsuha, Paulo Costa, André Mattos, Daniela Favero, Anderson Ribeiro e Uriá Fassina.
 
+Deixamos nossos agradecimentos especiais à E.B.A.C. São Paulo e Cristian Cunha, e à ThoughtWorks Brasil e Luciano Ramalho, por toda a infraestrutura necessária para os dias do evento, e por nos acolherem com ótimos coffee breaks! E claro, agradecemos à Fundação Processing por esse grande trabalho!
+Até a próxima! Nos vemos no #PCD21SP
 
 
 
